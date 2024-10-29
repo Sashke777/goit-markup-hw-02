@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+/* Стиль для заголовків з шрифтом Raleway */
+h1,
+h2,
+.hero-title {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+/* Якщо є текст, що потребує середньої ваги Roboto */
+.medium-text {
+    font-weight: 500;
+}
+
+/* Якщо є текст, що потребує товстої ваги Roboto */
+.bold-text {
+    font-weight: 700;
+}
