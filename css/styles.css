@@ -103,7 +103,7 @@ body {
     background-color: #F4F4FD;
 }
 
-.section-heading-team {
+.team-heading {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -135,7 +135,7 @@ body {
     background-color: #F4F4FD;
 }
 
-.section-heading-portfolio {
+.portfolio-heading {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
