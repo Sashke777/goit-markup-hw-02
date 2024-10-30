@@ -112,7 +112,9 @@ body {
     color: #2e2f42;
     margin-bottom: 20px;
 }
-
+.team-item {
+    background-color: #FFFFFF;
+}
 .list-item-heading {
     font-weight: 500;
     font-size: 20px;
