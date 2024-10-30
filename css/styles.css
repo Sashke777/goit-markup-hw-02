@@ -13,7 +13,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;}
-.logo-span{ 
+.logo-span-studio{ 
     color: #2e2f42;}
 
 .nav-link-class {
@@ -45,7 +45,7 @@ body {
 .section-class {
     background-color: #2e2f42;}
 
-.section-heading {
+.section-heading{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -82,11 +82,45 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
+   
+    /* Our Team */
+.team-section {
+    background-color: #F4F4FD;
+    padding: 40px 20px;}
 
-/* Our portfolio */
+.section-heading-team{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    margin-bottom: 20px;}
+.team-item {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;}
+.list-item-heading {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
+
+.list-item-paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+
+/* Our portfolio +*/
 .portfolio-section {
     background-color: #F4F4FD;}
-.section-heading {
+
+.section-heading-portfolio {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -110,7 +144,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
-    /* Footer section */
+    /* Footer section +*/
 .footer-class {
     background-color: #2e2f42;
     padding: 20px;
