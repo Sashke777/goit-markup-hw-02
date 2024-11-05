@@ -4,7 +4,9 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-
+ul,ol {
+    list-style-type: none;
+}
 /* Header section */
 .logo-class {
     font-family: "Raleway", sans-serif;
@@ -132,7 +134,8 @@ body {
 
 /* Our portfolio */
 .portfolio-section {
-    background-color: #F4F4FD;
+    background-color: #FFFFFF
+
 }
 
 .portfolio-heading {
@@ -162,7 +165,6 @@ body {
 /* Footer section */
 .footer-class {
     background-color: #2e2f42;
-    text-align: center;
 }
 
 .logo-class {
